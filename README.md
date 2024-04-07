@@ -1,10 +1,10 @@
-# Project 7 - *Name of App Here*
+# Project 7 - *Task App*
 
-Submitted by: **Your Name Here**
+Submitted by: **Chelsea Bhuiyan**
 
-**Name of your app** is an app that ... [TODO] 
+**Task App** is an app that has the ability to save and persist task data to local storage using UserDefaults. In addition you'll add tab bar navigation so users can manage their tasks on the main tasks list as well as a calendar.
 
-Time spent: **X** hours spent in total
+Time spent: **6** hours spent in total
 
 ## Required Features
 
@@ -15,7 +15,7 @@ The following **required** functionality is completed:
 - [x] Session persists when application is closed and relaunched (tasks dont get deleted when closing app) 
   - [x] Note: You have to quit the app, not minimize it, in order to see the persistence.
 - [x] Tasks can be deleted
-- [ ] Users have a calendar view via navigation controller that displays tasks	
+- [x] Users have a calendar view via navigation controller that displays tasks	
 
 
 The following **additional** features are implemented:
@@ -26,17 +26,15 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+None. 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Chelsea Bhuiyan]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
